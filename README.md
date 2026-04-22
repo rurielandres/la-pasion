@@ -42,7 +42,7 @@ En conjunto, se trata de un mecanismo sencillo pero eficaz para la competencia d
 | DRV8833 (puente H)           | 4.000       |
 | Carrocería                   | 11.000      |
 | hc sr04                    | 3.500  |
-| **Total**                    | **71.840**  |
+| **Total**                    | **76.640**  |
 
 ---
 
