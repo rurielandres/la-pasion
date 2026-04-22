@@ -34,7 +34,7 @@ En conjunto, se trata de un mecanismo sencillo pero eficaz para la competencia d
 ## 💰 Componentes y costos aproximados
 | Componente                   | Costo (ARS) |
 |------------------------------|-------------|
-| ESP32 S3 super mini          | 10.000      |
+| ESP32 C3 super mini          | 10.000      |
 | Batería de Lipo              | 30.040      |
 | TCRT5000 (sensor frontal)    | 3.700       |
 | AD-32 (sensor lateral)       | 3.300       |
