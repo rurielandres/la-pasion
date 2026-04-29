@@ -38,7 +38,7 @@ En conjunto, se trata de un mecanismo sencillo pero eficaz para la competencia d
 | Batería de Lipo              | 30.040      |
 | TCRT5000 (sensor )    | 3.700       |
 | AD-32 (sensor) x2      | 2.300       |
-| Motores Pololu 250RPM        | 9.800       |
+| Motores Pololu 250RPM   x2     | 9.800       |
 | DRV8833 (puente H)           | 4.000       |
 | Carrocería                   | 11.000      |
 | hc sr04                    | 3.500  |
