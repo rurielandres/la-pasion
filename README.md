@@ -37,7 +37,7 @@ En conjunto, se trata de un mecanismo sencillo pero eficaz para la competencia d
 | ESP32 C3 super mini          | 10.000      |
 | Batería de Lipo              | 30.040      |
 | TCRT5000 (sensor )    | 3.700       |
-| AD-32 (sensor)       | 2.300       |
+| AD-32 (sensor) x2      | 2.300       |
 | Motores Pololu 250RPM        | 9.800       |
 | DRV8833 (puente H)           | 4.000       |
 | Carrocería                   | 11.000      |
