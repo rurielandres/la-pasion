@@ -20,7 +20,7 @@ En conjunto, se trata de un mecanismo sencillo pero eficaz para la competencia d
 ## ⚙️ Esquema en bloques
 - Batería
 - Sensor lateral
-- Microcontrolador (ESP32 S3)
+- Microcontrolador (ESP32 C3 mini)
 - Sensor frontal
 - Sensor de piso
 - DRV8833 (Puente H)
@@ -64,6 +64,11 @@ Para lograrlo, combina distintos sensores y un sistema de control basado en el E
 
 <img width="1042" height="547" alt="Fabulous Snicket-Trug (1)" src="https://github.com/user-attachments/assets/94d34396-2455-48cb-8907-f2a8834b298b" />
 
+## Esquematico
 
-(pcb y esquematico proximamente)
+<img width="735" height="458" alt="Captura de pantalla 2026-05-06 074147" src="https://github.com/user-attachments/assets/35848879-fdd6-4640-a0a6-27e00487db7c" />
+
+
+
+(pcb proximamente)
 
