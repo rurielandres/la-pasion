@@ -11,11 +11,6 @@ const int sensorPin = A0;
 //Pines para el sensor ultrasonido
 #define echo 7
 #define triger 6
-#define echo1 8
-#define triger1 13
-#define echo2 15
-#define triger2 1
-
 
 //Pines para puente H (motor A - Motor B)
 #define adelante1 12  //in1
