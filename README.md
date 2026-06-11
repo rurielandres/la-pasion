@@ -1,9 +1,8 @@
- Proyecto Minisumo - La Passione
+ Proyecto Minisumo - AD VICTORIAM
 
 ## 👥 Autores
 - **Uriel Ramirez**   
 - **Demian Ramirez** 
-- **Elías Vázquez**
   
 ---
 
