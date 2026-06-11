@@ -66,9 +66,10 @@ Para lograrlo, combina distintos sensores y un sistema de control basado en el E
 
 ## Esquematico
 
-<img width="735" height="458" alt="Captura de pantalla 2026-05-06 074147" src="https://github.com/user-attachments/assets/35848879-fdd6-4640-a0a6-27e00487db7c" />
+<img width="1135" height="549" alt="Captura de pantalla 2026-06-11 083017" src="https://github.com/user-attachments/assets/b0c4a3c0-8852-4600-b7ac-384d5c248462" />
 
+## PCB
 
+<img width="699" height="343" alt="Captura de pantalla 2026-06-11 082902" src="https://github.com/user-attachments/assets/00c493eb-6b68-451b-a675-15aede72350e" />
 
-(pcb proximamente)
 
