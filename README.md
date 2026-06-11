@@ -61,7 +61,8 @@ Para lograrlo, combina distintos sensores y un sistema de control basado en el E
  
 ## 📐Diseño
 
-<img width="1042" height="547" alt="Fabulous Snicket-Trug (1)" src="https://github.com/user-attachments/assets/94d34396-2455-48cb-8907-f2a8834b298b" />
+<img width="313" height="221" alt="Captura de pantalla 2026-06-11 085245" src="https://github.com/user-attachments/assets/c05633a1-941a-487b-b44c-e71022678ce7" />
+
 
 ## Esquematico
 
