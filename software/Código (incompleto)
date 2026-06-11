@@ -12,6 +12,7 @@ const int sensorPin = A0;
 #define echo 7
 #define triger 6
 
+
 //Pines para puente H (motor A - Motor B)
 #define adelante1 12  //in1
 #define atras1 11     //in2
@@ -26,7 +27,7 @@ float distancia=0;
 int ir1=0;      //Izquierdo 
 int ir2=0;      //Derecho
 
- //Lee el voltage analógico del TCRT5000
+ //Read the analog voltage from the TCRT5000 sensor
 int sensorValue = analogRead(sensorPin);
 
 void setup() {
@@ -103,14 +104,23 @@ void Motores() {
         delay(700);    
     }
     
- if (sensorValue == 1){
+ if (sensorValue == 0)
+     {
         digitalWrite(adelante1,HIGH);
         digitalWrite(atras1,LOW);
         digitalWrite(adelante2,LOW);
         digitalWrite(atras2,HIGH);
         delay(700);
-        }
-    }
+     }
+   else
+     {
+        digitalWrite(adelante1,HIGH);
+        digitalWrite(atras1,LOW);
+        digitalWrite(adelante2,LOW);
+        digitalWrite(atras2,HIGH);
+        delay(700);   
+     }
+    
 
 void loop(); {
 //Codigo principal del robot sumo
@@ -118,3 +128,5 @@ Sensor();
 Motores();  
    }
 }
+}
+
